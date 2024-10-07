@@ -3,7 +3,55 @@ using static System.Console;
 
     class Progam
     {
-        static void Demositch()
+        static void formedu()
+        {
+            WriteLine("Digite um valor");
+            var valor = int.Parse(ReadLine());
+
+            for(int i = valor; i <= 99; i++)
+            {
+                WriteLine(i);
+            }
+        }
+        static void Do()
+        {
+            Boolean condicao = true;
+            do
+            {
+            WriteLine("Digite um valor:");
+            WriteLine("0 para sair da aplicação.");
+            var valor = int.Parse(ReadLine());
+
+                if(valor == 0)
+                {
+                    WriteLine("Voce saiu!");
+                    condicao = false;
+                } 
+                else{
+                    WriteLine($"O valor digitado foi {valor}");
+                }
+            }while(condicao == true);
+        }
+        static void While()
+        {
+            Boolean condicao = true;
+             while(condicao == true)
+            {
+            WriteLine("Digite um valor:");
+            WriteLine("0 para sair da aplicação.");
+            var valor = int.Parse(ReadLine());
+
+                if(valor == 0)
+                {
+                    WriteLine("Voce saiu!");
+                    condicao = false;
+                } 
+                else{
+                    WriteLine($"O valor digitado foi {valor}");
+                }
+            }
+        }
+        static void DemosWitch()
         {
             int mes;
 
@@ -129,7 +177,13 @@ using static System.Console;
         }
         static void Main(string[] args)
         {
-            
+            string[] listaNomes = {"Andre","Joao","Beatriz","Flavio","Robero"};
+
+            foreach(string nomes in listaNomes)
+            {
+              WriteLine(nomes);  
+            }
+
 
         }
     }

@@ -12,3 +12,4 @@ c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debu
 c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.pdb
 C:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.genruntimeconfig.cache
 C:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\ref\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.dll
+C:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.sourcelink.json

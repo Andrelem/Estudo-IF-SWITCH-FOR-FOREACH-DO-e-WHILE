@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ce35877613279cc3f24cb3faa39d014dad7682b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
