@@ -1,0 +1,14 @@
+c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.AssemblyInfoInputs.cache
+c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.AssemblyInfo.cs
+c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.csproj.CoreCompileInputs.cache
+c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\bin\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.exe
+C:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\bin\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.deps.json
+C:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\bin\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.runtimeconfig.json
+c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\bin\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.dll
+c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\bin\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.pdb
+c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.dll
+c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\refint\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.dll
+c:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.pdb
+C:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.genruntimeconfig.cache
+C:\Users\Andre\Documents\Csharp\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE\obj\Debug\net8.0\ref\Estudo-IF-SWITCH-FOR-FOREACH-DO-e-WHILE.dll
